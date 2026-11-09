@@ -16,7 +16,7 @@ curl -fsSL https://raw.githubusercontent.com/noah-thing/lunchbox-releases/main/i
 irm https://raw.githubusercontent.com/noah-thing/lunchbox-releases/main/install.ps1 | iex
 ```
 
-The script downloads the latest version for your computer, installs it and opens Lunchbox. Run it again any time to update; Lunchbox also updates itself.
+The script installs the latest version for your computer and opens Lunchbox. Run it again to update, though Lunchbox also updates itself.
 
 | | What it installs |
 | --- | --- |
@@ -26,7 +26,7 @@ The script downloads the latest version for your computer, installs it and opens
 
 ## Download instead
 
-Every file is under [Releases](https://github.com/noah-thing/lunchbox-releases/releases/latest).
+You can find each file under [Releases](https://github.com/noah-thing/lunchbox-releases/releases/latest).
 
 - **macOS:** open the `.dmg` and drag Lunchbox to Applications. Lunchbox is not signed yet, so the first time, right click it and choose Open.
 - **Windows:** run `Lunchbox-Setup-<version>.exe`. If Windows says it protected your PC, choose More info, then Run anyway.
