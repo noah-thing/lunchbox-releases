@@ -4,7 +4,7 @@
       "id": "mac-011-update",
       "kind": "card",
       "title": "Update Lunchbox with one line",
-      "body": "This version cannot install updates on a Mac by itself. Paste one line in Terminal and Lunchbox updates to the latest version and opens again, with your rooms and settings as they were. After that, updates install with one click.",
+      "body": "Lunchbox 0.1.1 can't install updates on a Mac by itself. Paste one line in Terminal and it updates and opens again, with your rooms and settings as they were. After that, updates take one click.",
       "action": {
         "label": "Get the line",
         "url": "https://mylunchbox.dev/update"
@@ -13,9 +13,10 @@
       "platforms": [
         "darwin"
       ],
-      "until": "2026-12-31T00:00:00Z"
+      "until": "2026-12-31T00:00:00Z",
+      "image": "https://mylunchbox.dev/assets/update-card.png"
     }
   ],
-  "issued": 1794390057230,
-  "sig": "0jiH7GiznrXmcc94zo4XT4G5GuHh3b2OZ3b2//wvzpj1gT4tr6rrUtvmvJj4g0oTx2OlbOdc4tmfMGvrpoRBBw=="
+  "issued": 1794390502967,
+  "sig": "JpArEGgxINosdBnBjLggilsWKnEWH8SbAVGBVHqz3gMF84ms8PKQWhz8AB5W0SFGOrmY1Rm7p902N0RjZwOgDA=="
 }
