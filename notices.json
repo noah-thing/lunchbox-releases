@@ -4,7 +4,7 @@
       "id": "mac-011-update-2",
       "kind": "card",
       "title": "A new version of Lunchbox is available",
-      "body": "You're on Lunchbox 0.1.1, an older version that can't update itself on a Mac. Paste one line in Terminal to get the latest version. Lunchbox opens again with your rooms and settings as they were, and every update after this takes one click.",
+      "body": "You're on 0.1.1, which can't update itself on a Mac. Paste one line in Terminal and Lunchbox updates and reopens with everything as it was. After that, updates take one click.",
       "action": {
         "label": "Update now",
         "url": "https://mylunchbox.dev/update"
@@ -16,6 +16,6 @@
       "until": "2026-12-31T00:00:00Z"
     }
   ],
-  "issued": 1794391771512,
-  "sig": "K1nEIcAzUftcJONN2hlMRYTg/C5ex5O4XdKfJhP9sI4SelV6Ligh42bh4QhGyqKnAjXmJ1OKY/ZMJ+UMFdmDBg=="
+  "issued": 1794391921368,
+  "sig": "JjUcgyT2LutkecLpF0Y1bYNlXP8DcaQX17McfJdzJZ5VpYs7+3mOEZWxz5oWnlBa/lb89Ig7LeXFQ96xAAb/CQ=="
 }
