@@ -13,10 +13,9 @@
       "platforms": [
         "darwin"
       ],
-      "until": "2026-12-31T00:00:00Z",
-      "image": "https://mylunchbox.dev/assets/update-card.png"
+      "until": "2026-12-31T00:00:00Z"
     }
   ],
-  "issued": 1794390502967,
-  "sig": "JpArEGgxINosdBnBjLggilsWKnEWH8SbAVGBVHqz3gMF84ms8PKQWhz8AB5W0SFGOrmY1Rm7p902N0RjZwOgDA=="
+  "issued": 1794390915044,
+  "sig": "hkUoartZMVZu5Uw0lX9B0FQJ6cNWu70CZV+IDDF3mic2b0aornvh9T0crr+No+0KHRVgIoSZEYkdn1/iZywNAQ=="
 }
