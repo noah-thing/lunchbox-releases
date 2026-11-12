@@ -14,8 +14,21 @@
         "darwin"
       ],
       "until": "2026-12-31T00:00:00Z"
+    },
+    {
+      "id": "update-015",
+      "kind": "card",
+      "title": "Lunchbox 0.1.5 is here",
+      "body": "Expert mode, which has your agents look at and measure their own work before handing it over. Free models you can add in one click. A savings card to share, and messages you can send while an agent works. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
+      "action": {
+        "label": "See what's new",
+        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.5"
+      },
+      "from": "0.1.2",
+      "to": "0.1.4",
+      "until": "2026-12-15T00:00:00Z"
     }
   ],
-  "issued": 1794391921368,
-  "sig": "JjUcgyT2LutkecLpF0Y1bYNlXP8DcaQX17McfJdzJZ5VpYs7+3mOEZWxz5oWnlBa/lb89Ig7LeXFQ96xAAb/CQ=="
+  "issued": 1794442097733,
+  "sig": "EkN77ialRa+jnLLg+J5Qv14EjDcARn7w19LOM2p3t0BHvofqpbESpWCggnUMD1iFHXfIqqjot7SjPfLXocwjCg=="
 }
