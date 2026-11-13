@@ -16,19 +16,19 @@
       "until": "2026-12-31T00:00:00Z"
     },
     {
-      "id": "update-015",
+      "id": "update-016",
       "kind": "card",
-      "title": "Lunchbox 0.1.5 is here",
-      "body": "Expert mode, which has your agents look at and measure their own work before handing it over. Free models you can add in one click. A savings card to share, and messages you can send while an agent works. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
+      "title": "Lunchbox 0.1.6 is here",
+      "body": "See what every agent is doing while it works, with a plan that ticks off as it goes. Local and API models can now work in your folder, you can ask an agent by name, and Expert mode designs more like a senior designer. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
       "action": {
         "label": "See what's new",
-        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.5"
+        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.6"
       },
       "from": "0.1.2",
       "to": "0.1.4",
-      "until": "2026-12-15T00:00:00Z"
+      "until": "2026-12-31T00:00:00Z"
     }
   ],
-  "issued": 1794442097733,
-  "sig": "EkN77ialRa+jnLLg+J5Qv14EjDcARn7w19LOM2p3t0BHvofqpbESpWCggnUMD1iFHXfIqqjot7SjPfLXocwjCg=="
+  "issued": 1794590608673,
+  "sig": "ID8wQUAqr1gW9F0PYkDJzfcj9wyATAbrZCrkYk1boXe1ha1IyTIr42hJo9QzRWKG0q+Yw/tzAdq0k2CZSOwmBA=="
 }
