@@ -16,19 +16,46 @@
       "until": "2026-12-31T00:00:00Z"
     },
     {
-      "id": "update-016",
+      "id": "update-019-card",
       "kind": "card",
-      "title": "Lunchbox 0.1.6 is here",
-      "body": "See what every agent is doing while it works, with a plan that ticks off as it goes. Local and API models can now work in your folder, you can ask an agent by name, and Expert mode designs more like a senior designer. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
+      "title": "Lunchbox 0.1.9 is ready",
+      "body": "Effort now sits in the model menu, you pick who builds in the Workshop, every theme keeps to its own colours, and the whole app moves without jumps. One click updates it, and your rooms and settings stay as they are.",
+      "image": "https://mylunchbox.dev/notices/0.1.9.png",
+      "action": {
+        "label": "Update now",
+        "url": "lunchbox:update"
+      },
+      "from": "0.1.8",
+      "to": "0.1.8",
+      "until": "2026-12-31T00:00:00Z"
+    },
+    {
+      "id": "update-019",
+      "kind": "card",
+      "title": "Lunchbox 0.1.9 is ready",
+      "body": "Google's agent through Antigravity, a Workshop that builds what you ask for into your own Lunchbox, slash commands from all your agents, effort in the model menu, and themes that reach the whole app. One click updates it, and your rooms and settings stay as they are.",
+      "action": {
+        "label": "Update now",
+        "url": "lunchbox:update"
+      },
+      "from": "0.1.5",
+      "to": "0.1.7",
+      "until": "2026-12-31T00:00:00Z"
+    },
+    {
+      "id": "update-019-old",
+      "kind": "card",
+      "title": "Lunchbox 0.1.9 is here",
+      "body": "Google's agent through Antigravity, a Workshop that builds what you ask for into your own Lunchbox, slash commands from all your agents, and themes that reach the whole app. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
       "action": {
         "label": "See what's new",
-        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.6"
+        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.9"
       },
       "from": "0.1.2",
       "to": "0.1.4",
       "until": "2026-12-31T00:00:00Z"
     }
   ],
-  "issued": 1795175441013,
-  "sig": "hIZgBbB6oFdXC9zSEGWK/07OIBu0y7iVBXUK5FkDfuHQ/U+zcS0uxPBFpxgNIZ2v9NWFcZ7TEVtO9hb2VVX4Dw=="
+  "issued": 1795181419026,
+  "sig": "VjV1vq3s1bOHf+QFZcMC8z16X5eyF3WCilIPL9Sl/smIwn25d6r4ric5ahnqA6FL5JrQJhlEcRt5Fl0KEdWEAQ=="
 }
