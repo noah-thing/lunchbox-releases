@@ -16,19 +16,32 @@
       "until": "2026-12-31T00:00:00Z"
     },
     {
-      "id": "update-016",
+      "id": "update-018b",
       "kind": "card",
-      "title": "Lunchbox 0.1.6 is here",
-      "body": "See what every agent is doing while it works, with a plan that ticks off as it goes. Local and API models can now work in your folder, you can ask an agent by name, and Expert mode designs more like a senior designer. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
+      "title": "Lunchbox 0.1.8 is here",
+      "body": "Google's agent works again, through Antigravity. Pick model and effort side by side for every agent, type / for every agent's commands, and ask the new Workshop for anything Lunchbox is missing. Agents now work until they are done. One click updates, and your rooms open where you left them.",
+      "action": {
+        "label": "Update now",
+        "url": "lunchbox:update"
+      },
+      "from": "0.1.5",
+      "to": "0.1.7",
+      "until": "2027-01-31T00:00:00Z"
+    },
+    {
+      "id": "update-018b-old",
+      "kind": "card",
+      "title": "Lunchbox 0.1.8 is here",
+      "body": "Google's agent works again, through Antigravity, with model and effort side by side and the new Workshop. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox. Your rooms open where you left them.",
       "action": {
         "label": "See what's new",
-        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.6"
+        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.8"
       },
       "from": "0.1.2",
       "to": "0.1.4",
-      "until": "2026-12-31T00:00:00Z"
+      "until": "2027-01-31T00:00:00Z"
     }
   ],
-  "issued": 1795174154710,
-  "sig": "PL9LOFBpzd2qmrBLZ+Qy4v+JMMG37SreVmGsSyHqR/oBm//gGe9rlx0v0Lg3sAm2+oRKGd01DVxJmY27c2IqCw=="
+  "issued": 1795174226675,
+  "sig": "oqKp64jU2BIKfBZqExvklJYDO9MD8Gh4nmU6D+2ztanmpP1q7R2E42IXHBab9j/ARcGnc5MHHuR9kxOBeTKfAA=="
 }
