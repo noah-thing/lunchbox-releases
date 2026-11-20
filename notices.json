@@ -16,19 +16,32 @@
       "until": "2026-12-31T00:00:00Z"
     },
     {
-      "id": "update-016",
+      "id": "update-018",
       "kind": "card",
-      "title": "Lunchbox 0.1.6 is here",
-      "body": "See what every agent is doing while it works, with a plan that ticks off as it goes. Local and API models can now work in your folder, you can ask an agent by name, and Expert mode designs more like a senior designer. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox.",
+      "title": "Lunchbox 0.1.8: important fixes",
+      "body": "We fixed some important bugs and made Lunchbox easier to use. Google's agent now runs through Antigravity, you pick model and effort side by side for every agent, themes colour the whole app, and the new Workshop lets an agent add what Lunchbox is missing, just for you. Updating takes one click, and your rooms open where you left them.",
+      "action": {
+        "label": "Update now",
+        "url": "lunchbox:update"
+      },
+      "from": "0.1.5",
+      "to": "0.1.7",
+      "until": "2027-01-31T00:00:00Z"
+    },
+    {
+      "id": "update-018-old",
+      "kind": "card",
+      "title": "Lunchbox 0.1.8: important fixes",
+      "body": "We fixed some important bugs and made Lunchbox easier to use. It downloads by itself: click Restart now at the top of the window, or quit and reopen Lunchbox. Your rooms open where you left them.",
       "action": {
         "label": "See what's new",
-        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.6"
+        "url": "https://github.com/noah-thing/lunchbox-releases/releases/tag/v0.1.8"
       },
       "from": "0.1.2",
       "to": "0.1.4",
-      "until": "2026-12-31T00:00:00Z"
+      "until": "2027-01-31T00:00:00Z"
     }
   ],
-  "issued": 1794590608673,
-  "sig": "ID8wQUAqr1gW9F0PYkDJzfcj9wyATAbrZCrkYk1boXe1ha1IyTIr42hJo9QzRWKG0q+Yw/tzAdq0k2CZSOwmBA=="
+  "issued": 1795173364415,
+  "sig": "I53gSHsSkP+QCee58OeXdnscCBq5HDXAJfvSU4A9SoJfAz/JLAoL4I6y/+IClnV3UpJ9ySeZCi7eMIod3xTcCA=="
 }
